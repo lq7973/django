@@ -22,7 +22,7 @@ colorlog==4.0.2
 constantly==15.1.0
 cookies==2.2.1
 crochet==1.7.0
-cryptography==2.8
+cryptography==3.2
 cssselect==1.0.1
 cycler==0.10.0
 db==0.1.1
